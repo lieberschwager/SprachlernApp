@@ -7,7 +7,13 @@ buildscript {
         classpath 'com.android.tools.build:gradle:8.1.1'
     }
 }
+
 allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+
     tasks.withType(JavaCompile).configureEach {
         options.release = 17
     }
