@@ -1,0 +1,23 @@
+[
+  {
+    "id": "vokabeln",
+    "name": "Vokabeltraining",
+    "description": "Lerne neue Wörter mit Bildern, Beispielen und KI-gestützter Aussprache.",
+    "levels": ["A1", "A2", "B1", "B2"],
+    "availableLanguages": ["de", "en", "fr", "es", "it"]
+  },
+  {
+    "id": "grammatik",
+    "name": "Grammatikübungen",
+    "description": "Verstehe Satzbau, Zeiten und Regeln mit interaktiven Übungen.",
+    "levels": ["A2", "B1", "B2"],
+    "availableLanguages": ["de", "en", "fr"]
+  },
+  {
+    "id": "aussprache",
+    "name": "Aussprachetraining",
+    "description": "Verbessere deine Aussprache mit KI-Feedback und Audiovergleichen.",
+    "levels": ["A1", "A2", "B1"],
+    "availableLanguages": ["de", "en", "es"]
+  }
+]

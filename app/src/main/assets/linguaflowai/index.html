@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Linguaflow</title>
+  <link rel="stylesheet" href="src/style.css">
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header">
+      <h1 class="logo gradient-text">LinguaflowAI</h1>
+      <img src="./assets/linguaflow_logo.png" alt="Linguaflow Logo" class="app-logo">
+    </header>
+    <main class="app-main">
+      <section id="module-globus" class="app-module active">
+        <div class="globe-center">
+          <canvas id="globeCanvas"></canvas>
+        </div>
+        <div class="globe-actions">
+          <button id="btn-explore-language" class="control-btn">Sprachen entdecken</button>
+        </div>
+      </section>
+      <!-- weitere Module ... -->
+    </main>
+    <footer class="app-footer">
+      <nav class="app-nav">
+        <button class="nav-btn active" data-target="module-globus">
+          <span class="nav-icon">🌍</span>
+          <span class="nav-label">Globus</span>
+        </button>
+        <button class="nav-btn" data-target="module-vokabeltrainer">
+          <span class="nav-icon">📚</span>
+          <span class="nav-label">Vokabeln</span>
+        </button>
+        <button class="nav-btn" data-target="module-neue-funktion">
+          <span class="nav-icon">⚙️</span>
+          <span class="nav-label">Feature</span>
+        </button>
+        <button class="nav-btn" data-target="module-monetarisierung">
+          <span class="nav-icon">💖</span>
+          <span class="nav-label">Support</span>
+        </button>
+      </nav>
+    </footer>
+  </div>
+  <script type="module">
+    import * as THREE from './src/libs/three.module.js';
+    import './src/main.js';
+  </script>
+</body>
+</html>
