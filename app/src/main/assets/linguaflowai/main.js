@@ -1,25 +1,20 @@
-import * as THREE from './libs/three.module.js';
+import * as THREE from '/libs/three.module.js';
+import { OrbitControls } from '/libs/OrbitControls.js';
 
-// ==================== Navigation ====================
-const navButtons = document.querySelectorAll(".nav-btn");
-const modules = document.querySelectorAll(".app-module");
+// ==================== WebGL Check ====================
+function isWebGLAvailable() {
+  try {
+    const canvas = document.createElement('canvas');
+    return !!window.WebGLRenderingContext && !!canvas.getContext('webgl');
+  } catch (e) {
+    return false;
+  }
+}
 
-navButtons.forEach((btn) => {
-  btn.addEventListener("click", () => {
-    const target = btn.getAttribute("data-target");
-
-    modules.forEach((mod) => {
-      mod.classList.add("hidden");
-      mod.classList.remove("active");
-    });
-
-    document.getElementById(target).classList.remove("hidden");
-    document.getElementById(target).classList.add("active");
-
-    navButtons.forEach((b) => b.classList.remove("active"));
-    btn.classList.add("active");
-  });
-});
+if (!isWebGLAvailable()) {
+  alert("❌ WebGL wird nicht unterstützt – der Globus kann nicht angezeigt werden.");
+  throw new Error("WebGL nicht verfügbar");
+}
 
 // ==================== Globus Setup ====================
 document.addEventListener("DOMContentLoaded", () => {
@@ -29,32 +24,53 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
+  console.log("✅ Canvas gefunden – Größe:", canvas.clientWidth, canvas.clientHeight);
+
   const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true });
   renderer.setClearColor(0x000000, 0);
   renderer.outputColorSpace = THREE.SRGBColorSpace;
 
   const scene = new THREE.Scene();
   const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-  camera.position.set(0, 0, 5);
+  camera.position.set(0, 0, 6); // etwas weiter weg für mobile Darstellung
+
+  const controls = new OrbitControls(camera, renderer.domElement);
+  controls.enableZoom = false;
+  controls.enablePan = false;
+  controls.rotateSpeed = 0.5;
+  controls.enableDamping = true;
+  controls.dampingFactor = 0.05;
+  controls.minDistance = 6;
+  controls.maxDistance = 6;
 
   const directionalLight = new THREE.DirectionalLight(0xffffff, 2.5);
-  directionalLight.position.set(0, 0, 5);
+  directionalLight.position.set(2, 2, 5);
   scene.add(directionalLight);
   scene.add(new THREE.AmbientLight(0xffffff, 0.5));
 
   const textureLoader = new THREE.TextureLoader();
-  const colorMap = textureLoader.load("assets/earth_atmos_2048.jpg");
-  const specularMap = textureLoader.load("assets/earth_specular_2048.jpg");
-  const normalMap = textureLoader.load("assets/earth_normal_2048.jpg");
-  const cloudMap = textureLoader.load("assets/earth_clouds_2048.png");
+  const basePath = 'file:///android_asset/linguaflowai/';
+
+  const colorMap     = textureLoader.load(basePath + 'earth_atmos_2048.jpg');
+  const specularMap  = textureLoader.load(basePath + 'earth_specular_2048.jpg');
+  const normalMap    = textureLoader.load(basePath + 'earth_normal_2048.jpg');
+  const cloudMap     = textureLoader.load(basePath + 'earth_clouds_2048.jpg');
+
+  setTimeout(() => {
+    console.log("🧪 Texturstatus:");
+    console.log("colorMap:", colorMap?.image);
+    console.log("specularMap:", specularMap?.image);
+    console.log("normalMap:", normalMap?.image);
+    console.log("cloudMap:", cloudMap?.image);
+  }, 1000);
 
   const globeMaterial = new THREE.MeshPhongMaterial({
     map: colorMap,
     normalMap: normalMap,
-    normalScale: new THREE.Vector2(1.5, 1.5), // kräftigerer Relief-Effekt
+    normalScale: new THREE.Vector2(1.5, 1.5),
     specularMap: specularMap,
-    specular: new THREE.Color(0x222222), // dezenter Glanz
-    shininess: 8, // weichere Lichtreflexe
+    specular: new THREE.Color(0x666666),
+    shininess: 40,
   });
 
   const globeGeometry = new THREE.SphereGeometry(1.8, 64, 64);
@@ -64,7 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const cloudMaterial = new THREE.MeshPhongMaterial({
     map: cloudMap,
     transparent: true,
-    opacity: 0.6,
+    opacity: 0.5,
     depthWrite: false,
     side: THREE.DoubleSide,
   });
@@ -94,33 +110,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function animate() {
     requestAnimationFrame(animate);
-    globeMesh.rotation.y += 0.001;
-    cloudMesh.rotation.y += 0.0015;
+    controls.update();
     renderer.render(scene, camera);
   }
 
   animate();
 });
-
-// ==================== Vokabeltrainer ====================
-const wordCard = document.querySelector(".word-card");
-if (wordCard) {
-  wordCard.addEventListener("click", () => {
-    wordCard.classList.toggle("flipped");
-  });
-}
-
-const nextWordBtn = document.getElementById("btn-next-word");
-if (nextWordBtn) {
-  nextWordBtn.addEventListener("click", () => {
-    alert("Nächstes Wort kommt später 🚀");
-  });
-}
-
-// ==================== Sprach-Explorer ====================
-const exploreBtn = document.getElementById("btn-explore-language");
-if (exploreBtn) {
-  exploreBtn.addEventListener("click", () => {
-    alert("Sprachen-Explorer in Arbeit 🌍");
-  });
-}
