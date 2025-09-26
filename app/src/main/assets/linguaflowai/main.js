@@ -42,9 +42,11 @@ document.addEventListener("DOMContentLoaded", () => {
   renderer.setPixelRatio(window.devicePixelRatio);
   renderer.setClearColor(0x000000, 0);
 
-  scene.add(new THREE.AmbientLight(0xffffff, 1.81));
-  const dirLight = new THREE.DirectionalLight(0xffffff, 1);
-  dirLight.position.set(6,6,6);
+  const ambientLight = new THREE.AmbientLight(0xffffff, 0.8);
+  scene.add(ambientLight);
+
+  const dirLight = new THREE.DirectionalLight(0xffffff, 2.4);
+  dirLight.position.set(4, 6, 3);
   scene.add(dirLight);
 
   const loader = new THREE.TextureLoader();
@@ -53,7 +55,7 @@ document.addEventListener("DOMContentLoaded", () => {
     atmos: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_atmos_2048.jpg',
     normal: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_normal_2048.jpg',
     specular: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_specular_2048.jpg',
-    clouds: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_clouds_2048.png'
+    clouds: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_clouds_2048.jpg'
   };
 
   const textures = {};
@@ -77,13 +79,13 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   function buildGlobe() {
-    const globeMaterial = new THREE.MeshPhongMaterial({
+    const globeMaterial = new THREE.MeshStandardMaterial({
       map: textures.atmos,
       normalMap: textures.normal,
-      normalScale: new THREE.Vector2(1.5, 1.5),
-      specularMap: textures.specular,
-      specular: new THREE.Color(0x222222),
-      shininess: 10
+      normalScale: new THREE.Vector2(2.5, 2.5),
+      metalnessMap: textures.specular,
+      metalness: 1.2,
+      roughness: 2,4
     });
 
     const globeGeometry = new THREE.SphereGeometry(1.8, 64, 64);
@@ -91,25 +93,25 @@ document.addEventListener("DOMContentLoaded", () => {
     globeMesh.rotation.y = Math.PI;
     scene.add(globeMesh);
 
-    // Cloud-Layer vorbereitet, aber deaktiviert
-    // const cloudMaterial = new THREE.MeshPhongMaterial({
-    //   map: textures.clouds,
-    //   transparent: true,
-    //   opacity: 0.6,
-    //   depthWrite: false,
-    //   side: THREE.DoubleSide
-    // });
-    // const cloudGeometry = new THREE.SphereGeometry(1.83, 64, 64);
-    // const cloudMesh = new THREE.Mesh(cloudGeometry, cloudMaterial);
-    // cloudMesh.rotation.y = Math.PI;
-    // scene.add(cloudMesh);
+    const cloudMaterial = new THREE.MeshStandardMaterial({
+      map: textures.clouds,
+      transparent: true,
+      opacity: 0.8,
+      depthWrite: false,
+      side: THREE.DoubleSide
+    });
+
+    const cloudGeometry = new THREE.SphereGeometry(1.81, 64, 64);
+    const cloudMesh = new THREE.Mesh(cloudGeometry, cloudMaterial);
+    cloudMesh.rotation.y = Math.PI;
+    scene.add(cloudMesh);
 
     statusDiv.innerText += `\nGlobus vollständig geladen ✅`;
 
     function animate() {
       requestAnimationFrame(animate);
       globeMesh.rotation.y += 0.0015;
-      // cloudMesh.rotation.y += 0.0018;
+      cloudMesh.rotation.y += 0.0016;
       renderer.render(scene, camera);
     }
     animate();
