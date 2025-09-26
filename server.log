@@ -1,8 +1,8 @@
 nohup: ignoring input
-::1 - - [26/Sep/2025 20:09:00] "GET /index.html HTTP/1.1" 200 -
-::1 - - [26/Sep/2025 20:09:00] "GET /style.css HTTP/1.1" 200 -
-::1 - - [26/Sep/2025 20:09:00] "GET /main.js HTTP/1.1" 200 -
-::1 - - [26/Sep/2025 20:09:00] "GET /linguaflowai_text.png HTTP/1.1" 200 -
-::1 - - [26/Sep/2025 20:09:00] "GET /linguaflowai_logo.png HTTP/1.1" 200 -
-::1 - - [26/Sep/2025 20:09:00] "GET /libs/three.module.js HTTP/1.1" 200 -
-::1 - - [26/Sep/2025 20:09:03] "GET /favicon.ico HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 21:01:58] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 21:01:58] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 21:01:59] "GET /favicon.ico HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 21:02:50] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 21:02:50] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 21:07:31] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 21:07:31] "GET /main.js HTTP/1.1" 304 -

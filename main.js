@@ -49,10 +49,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const loader = new THREE.TextureLoader();
 
   const urls = {
-    day: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_specular_2048.jpg',
-    night: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_night_2048.jpg',
-    normal: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_normal_2048.jpg',
-    clouds: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_clouds_2048.jpg'
+    day: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/2k_earth_daymap.jpg',
+    night: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/2k_earth_nightmap.jpg',
+    clouds: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/2k_earth_clouds.jpg',
+    normal: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/2k_earth_normal_map.jpg',
+    specular: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/2k_earth_specular_map.jpg'
   };
 
   const textures = {};
@@ -83,11 +84,12 @@ document.addEventListener("DOMContentLoaded", () => {
   function buildGlobe() {
     const globeMaterial = new THREE.MeshStandardMaterial({
       map: textures.day,
-      color: new THREE.Color(0xffffff),
       normalMap: textures.normal,
       normalScale: new THREE.Vector2(3.0, 3.0),
+      specularMap: textures.specular,
       metalness: 0.0,
-      roughness: 0.5
+      roughness: 0.5,
+      color: new THREE.Color(0xffffff)
     });
 
     const globeGeometry = new THREE.SphereGeometry(1.8, 64, 64);
