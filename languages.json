@@ -1,0 +1,27 @@
+[
+  {
+    "code": "de",
+    "name": "Deutsch",
+    "flag": "flags/de.png"
+  },
+  {
+    "code": "en",
+    "name": "Englisch",
+    "flag": "flags/en.png"
+  },
+  {
+    "code": "fr",
+    "name": "Französisch",
+    "flag": "flags/fr.png"
+  },
+  {
+    "code": "es",
+    "name": "Spanisch",
+    "flag": "flags/es.png"
+  },
+  {
+    "code": "it",
+    "name": "Italienisch",
+    "flag": "flags/it.png"
+  }
+]

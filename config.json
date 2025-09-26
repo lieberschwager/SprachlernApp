@@ -1,0 +1,7 @@
+{
+  "defaultLanguage": "de",
+  "premiumActive": false,
+  "theme": "dark",
+  "voiceEnabled": true,
+  "modules": ["vokabeln", "grammatik", "aussprache"]
+}
