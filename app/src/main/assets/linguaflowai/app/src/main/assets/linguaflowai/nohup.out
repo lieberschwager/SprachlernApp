@@ -1,0 +1,1069 @@
+::1 - - [25/Sep/2025 10:49:50] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 10:49:50] "GET /linguaflowai_text.png HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 10:49:50] "GET /linguaflowai_logo.png HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 10:49:50] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 10:49:50] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 10:49:51] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 10:49:51] "GET /libs/OrbitControls.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 10:49:51] code 404, message File not found
+::1 - - [25/Sep/2025 10:49:51] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 11:05:24] code 404, message File not found
+::1 - - [25/Sep/2025 11:05:24] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 11:05:41] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 11:05:44] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 11:05:49] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 11:06:42] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 13:17:57] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 13:17:57] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 13:17:57] "GET /linguaflowai_text.png HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 13:17:57] "GET /linguaflowai_logo.png HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 13:17:57] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 13:17:57] "GET /libs/OrbitControls.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 13:17:57] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 13:18:02] code 404, message File not found
+::1 - - [25/Sep/2025 13:18:02] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 13:18:15] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 13:18:23] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 13:18:25] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 14:30:15] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 14:30:15] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 14:30:15] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:06:07] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:06:08] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:06:08] "GET /libs/OrbitControls.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:06:08] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:54:10] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 15:54:10] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 15:54:10] "GET /linguaflowai_text.png HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:54:10] "GET /linguaflowai_logo.png HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:54:10] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:54:25] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:54:25] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:54:45] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:54:45] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:56:18] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:56:18] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 15:56:21] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:56:21] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:56:23] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:56:23] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:56:24] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:56:24] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:56:30] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:56:30] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:03] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:03] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 15:57:07] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:07] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:08] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:09] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:09] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:11] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:11] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:51] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:51] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 15:57:53] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:53] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:54] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:54] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:55] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:55] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:57] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 15:57:57] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:03:38] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:03:38] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:03:42] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:03:44] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:37:12] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:37:12] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:37:12] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 16:37:18] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:37:21] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:46:54] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 16:46:54] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:46:54] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:47:25] "GET /test.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 16:47:25] code 404, message File not found
+::1 - - [25/Sep/2025 16:47:25] "GET /main-test.js HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 16:47:34] "GET /test.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:47:34] code 404, message File not found
+::1 - - [25/Sep/2025 16:47:34] "GET /main-test.js HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 16:48:59] "GET /test.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 16:48:59] "GET /main-test.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 17:03:28] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:03:29] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:03:29] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 17:03:29] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:03:29] "GET /libs/OrbitControls.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:03:31] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:03:31] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:15:31] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:15:31] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:15:31] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 17:15:36] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:15:36] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:18:19] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:18:19] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 17:18:31] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:18:31] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:23:08] code 404, message File not found
+::1 - - [25/Sep/2025 17:23:08] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 17:23:30] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:23:30] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 17:23:30] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:23:37] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:23:37] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:23:42] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:23:42] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:23:43] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:23:44] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:23:44] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 17:23:45] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 18:09:18] code 404, message File not found
+::1 - - [25/Sep/2025 18:09:18] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 18:42:12] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 18:42:12] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 18:42:12] "GET /linguaflowai_text.png HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 18:42:12] "GET /linguaflowai_logo.png HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 18:42:12] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 18:42:56] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 18:48:29] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 18:48:29] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 18:48:31] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:13:57] code 404, message File not found
+::1 - - [25/Sep/2025 19:13:57] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 19:13:58] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:13:58] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:13:58] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:13:58] "GET /libs/OrbitControls.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:13:58] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:00] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:05] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:06] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:07] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:51] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:53] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:54] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:55] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:56] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:57] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:58] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:14:59] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:15:01] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:15:02] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:15:03] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:15:04] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:15:05] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:22:16] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:22:16] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:22:16] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:22:17] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:22:17] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:22:31] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:22:31] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:22:39] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:22:39] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:24:41] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:24:42] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:24:42] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:32:48] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:32:48] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:32:48] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:39:46] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:39:46] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:39:46] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:39:47] code 404, message File not found
+::1 - - [25/Sep/2025 19:39:47] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 19:52:16] code 404, message File not found
+::1 - - [25/Sep/2025 19:52:16] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 19:52:23] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:52:24] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:52:24] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:57:29] code 404, message File not found
+::1 - - [25/Sep/2025 19:57:29] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 19:57:32] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:57:32] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:57:32] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:58:12] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:58:12] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:59:09] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:59:09] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 19:59:13] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:59:13] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:59:44] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:59:44] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 19:59:44] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:06:11] code 404, message File not found
+::1 - - [25/Sep/2025 20:06:11] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 20:06:17] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:06:17] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:06:17] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:06:23] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:06:23] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:08:22] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:08:22] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:08:25] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:08:25] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:08:26] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:08:26] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:08:27] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:08:27] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:30] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:31] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:31] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:09:32] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:32] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:34] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:34] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:35] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:35] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:40] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:40] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:41] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:41] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:43] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:09:43] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:15:20] code 404, message File not found
+::1 - - [25/Sep/2025 20:15:20] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 20:15:29] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:15:29] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:15:29] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:25:38] code 404, message File not found
+::1 - - [25/Sep/2025 20:25:38] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 20:25:40] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:25:40] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:25:40] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:25:42] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:25:42] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:25:50] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:25:50] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:25:50] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:25:55] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:25:55] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:25:55] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:26:15] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:26:15] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:26:15] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:26:17] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:13] code 404, message File not found
+::1 - - [25/Sep/2025 20:32:13] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 20:32:14] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:14] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:32:14] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:22] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:22] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:25] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:25] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:26] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:27] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:27] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:28] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:29] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:32:29] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:38:26] code 404, message File not found
+::1 - - [25/Sep/2025 20:38:26] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 20:38:27] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:38:27] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:38:27] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:39:13] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:39:13] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:45:35] code 404, message File not found
+::1 - - [25/Sep/2025 20:45:35] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 20:45:40] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:45:40] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:45:40] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:45:47] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:45:47] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:45:47] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:45:49] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:45:49] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:45:50] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:45:57] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:45:57] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:45:57] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:45:58] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:45:58] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:46:01] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:46:01] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:25] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:59:25] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:59:25] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 20:59:27] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:27] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:28] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:28] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:28] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:29] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:29] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:30] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:30] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:31] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:41] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:41] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 20:59:41] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 21:15:01] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 21:15:01] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 21:15:01] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 21:15:03] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 22:13:11] code 404, message File not found
+::1 - - [25/Sep/2025 22:13:11] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 22:21:58] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 22:21:58] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 22:21:58] "GET /linguaflowai_text.png HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 22:21:58] "GET /linguaflowai_logo.png HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 22:21:58] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 22:21:58] "GET /libs/OrbitControls.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 22:21:58] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 22:22:08] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 22:22:11] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 22:22:12] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:12:30] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:12:31] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:12:31] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:12:31] code 404, message File not found
+::1 - - [25/Sep/2025 23:12:31] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:12:31] code 404, message File not found
+::1 - - [25/Sep/2025 23:12:31] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:12:31] code 404, message File not found
+::1 - - [25/Sep/2025 23:12:31] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:12:31] code 404, message File not found
+::1 - - [25/Sep/2025 23:12:31] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:12:31] code 404, message File not found
+::1 - - [25/Sep/2025 23:12:31] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:12:51] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:12:51] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:12:51] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:12:51] code 404, message File not found
+::1 - - [25/Sep/2025 23:12:51] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:12:51] code 404, message File not found
+::1 - - [25/Sep/2025 23:12:51] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:12:51] code 404, message File not found
+::1 - - [25/Sep/2025 23:12:51] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:12:51] code 404, message File not found
+::1 - - [25/Sep/2025 23:12:51] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:18:34] "GET /index.html HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:18:34] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:18:34] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:21:04] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:21:04] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:21:04] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:21:05] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:21:07] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:21:07] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:21:08] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:21:09] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:21:10] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:21:10] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:21:11] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:41] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:41] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:41] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:22:42] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:42] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:42] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:42] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:42] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:42] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:42] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:42] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:43] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:43] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:43] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:43] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:43] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:43] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:43] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:43] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:43] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:43] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:45] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:45] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:45] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:45] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:45] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:45] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:45] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:45] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:45] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:45] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:46] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:46] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:46] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:46] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:46] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:46] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:46] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:46] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:46] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:46] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:48] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:48] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:48] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:48] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:48] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:48] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:48] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:48] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:48] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:48] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:49] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:49] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:49] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:49] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:49] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:49] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:49] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:49] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:49] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:49] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:51] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:51] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:51] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:51] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:51] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:51] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:51] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:51] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:51] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:51] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:53] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:53] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:53] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:53] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:53] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:53] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:53] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:53] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:53] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:53] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:54] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:54] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:54] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:54] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:54] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:54] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:54] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:54] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:54] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:54] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:55] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:55] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:55] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:55] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:55] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:55] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:55] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:55] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:55] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:55] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:56] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:56] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:56] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:56] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:56] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:56] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:56] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:56] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:56] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:57] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:57] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:22:57] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:57] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:57] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:57] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:57] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:57] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:22:57] code 404, message File not found
+::1 - - [25/Sep/2025 23:22:57] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:23:11] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:23:11] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:23:11] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:23:11] code 404, message File not found
+::1 - - [25/Sep/2025 23:23:11] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:23:11] code 404, message File not found
+::1 - - [25/Sep/2025 23:23:11] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:23:11] code 404, message File not found
+::1 - - [25/Sep/2025 23:23:11] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:23:11] code 404, message File not found
+::1 - - [25/Sep/2025 23:23:11] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:24:52] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:24:52] "GET /style.css HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:24:52] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:24:52] code 404, message File not found
+::1 - - [25/Sep/2025 23:24:52] code 404, message File not found
+::1 - - [25/Sep/2025 23:24:52] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:24:52] code 404, message File not found
+::1 - - [25/Sep/2025 23:24:52] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:24:52] code 404, message File not found
+::1 - - [25/Sep/2025 23:24:52] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:24:52] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:28:48] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:28:48] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:28:48] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:28:49] code 404, message File not found
+::1 - - [25/Sep/2025 23:28:49] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:28:51] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:28:51] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:28:51] code 404, message File not found
+::1 - - [25/Sep/2025 23:28:51] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:28:52] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:28:52] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:28:52] code 404, message File not found
+::1 - - [25/Sep/2025 23:28:52] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:28:53] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:28:53] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:28:54] code 404, message File not found
+::1 - - [25/Sep/2025 23:28:54] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:31:32] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:32] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:32] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:31:32] code 404, message File not found
+::1 - - [25/Sep/2025 23:31:32] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:31:34] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:34] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:34] code 404, message File not found
+::1 - - [25/Sep/2025 23:31:34] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:31:35] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:35] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:35] code 404, message File not found
+::1 - - [25/Sep/2025 23:31:35] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:31:40] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:40] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:40] code 404, message File not found
+::1 - - [25/Sep/2025 23:31:40] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:31:41] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:41] code 404, message File not found
+::1 - - [25/Sep/2025 23:31:41] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:31:42] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:42] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:42] code 404, message File not found
+::1 - - [25/Sep/2025 23:31:42] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:31:43] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:31:43] code 404, message File not found
+::1 - - [25/Sep/2025 23:31:43] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:33:10] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:10] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:10] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:33:11] code 404, message File not found
+::1 - - [25/Sep/2025 23:33:11] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:33:12] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:12] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:12] code 404, message File not found
+::1 - - [25/Sep/2025 23:33:12] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:33:13] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:13] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:13] code 404, message File not found
+::1 - - [25/Sep/2025 23:33:13] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:33:14] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:14] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:14] code 404, message File not found
+::1 - - [25/Sep/2025 23:33:14] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:33:15] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:15] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:15] code 404, message File not found
+::1 - - [25/Sep/2025 23:33:15] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:33:16] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:16] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:16] code 404, message File not found
+::1 - - [25/Sep/2025 23:33:16] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:33:16] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:17] code 404, message File not found
+::1 - - [25/Sep/2025 23:33:17] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:33:17] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:17] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:17] code 404, message File not found
+::1 - - [25/Sep/2025 23:33:17] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:33:18] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:18] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:33:18] code 404, message File not found
+::1 - - [25/Sep/2025 23:33:18] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:36:16] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:16] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:36:16] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:16] code 404, message File not found
+::1 - - [25/Sep/2025 23:36:16] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:36:17] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:17] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:17] code 404, message File not found
+::1 - - [25/Sep/2025 23:36:17] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:36:18] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:18] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:18] code 404, message File not found
+::1 - - [25/Sep/2025 23:36:18] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:36:19] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:19] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:19] code 404, message File not found
+::1 - - [25/Sep/2025 23:36:19] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:36:20] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:20] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:20] code 404, message File not found
+::1 - - [25/Sep/2025 23:36:20] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:36:22] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:22] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:22] code 404, message File not found
+::1 - - [25/Sep/2025 23:36:22] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:36:23] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:23] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:36:23] code 404, message File not found
+::1 - - [25/Sep/2025 23:36:23] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:38:30] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:38:31] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:38:31] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:38:31] code 404, message File not found
+::1 - - [25/Sep/2025 23:38:31] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:38:41] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:38:41] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:38:42] code 404, message File not found
+::1 - - [25/Sep/2025 23:38:42] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:40:13] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:40:13] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:40:13] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:40:13] code 404, message File not found
+::1 - - [25/Sep/2025 23:40:13] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:40:14] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:40:14] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:40:14] code 404, message File not found
+::1 - - [25/Sep/2025 23:40:14] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:40:15] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:40:15] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:40:15] code 404, message File not found
+::1 - - [25/Sep/2025 23:40:15] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:40:16] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:40:16] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:40:16] code 404, message File not found
+::1 - - [25/Sep/2025 23:40:16] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:40:32] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:40:32] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:40:32] code 404, message File not found
+::1 - - [25/Sep/2025 23:40:32] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:47:33] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:33] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:33] "GET /main.js HTTP/1.1" 200 -
+::1 - - [25/Sep/2025 23:47:33] code 404, message File not found
+::1 - - [25/Sep/2025 23:47:33] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:47:34] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:34] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:34] code 404, message File not found
+::1 - - [25/Sep/2025 23:47:34] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:47:35] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:35] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:35] code 404, message File not found
+::1 - - [25/Sep/2025 23:47:35] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:47:36] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:36] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:36] code 404, message File not found
+::1 - - [25/Sep/2025 23:47:36] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:47:37] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:37] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:37] code 404, message File not found
+::1 - - [25/Sep/2025 23:47:37] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:47:38] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:38] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:38] code 404, message File not found
+::1 - - [25/Sep/2025 23:47:38] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:47:39] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:39] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:47:39] code 404, message File not found
+::1 - - [25/Sep/2025 23:47:39] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:48:16] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:48:16] "GET /main.js HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:48:16] code 404, message File not found
+::1 - - [25/Sep/2025 23:48:16] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:48:17] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:48:17] code 404, message File not found
+::1 - - [25/Sep/2025 23:48:17] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:48:17] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:48:18] code 404, message File not found
+::1 - - [25/Sep/2025 23:48:18] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:48:18] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:48:18] code 404, message File not found
+::1 - - [25/Sep/2025 23:48:18] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:48:19] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:48:19] code 404, message File not found
+::1 - - [25/Sep/2025 23:48:19] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:48:20] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:48:20] code 404, message File not found
+::1 - - [25/Sep/2025 23:48:20] "GET /assets/linguaflowai/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [25/Sep/2025 23:56:53] "GET /index.html HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:56:54] "GET /style.css HTTP/1.1" 304 -
+::1 - - [25/Sep/2025 23:56:54] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:00:45] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:00:45] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:00:45] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:07:40] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:07:40] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:07:40] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:12:01] "GET /index.html HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:12:02] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:12:02] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:17:40] "GET /index.html HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:17:40] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:17:41] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:17:42] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:17:42] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:22:16] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:22:16] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:22:16] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:27:46] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:27:47] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:27:47] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:33:12] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:33:13] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:33:13] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:33:27] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:33:27] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:38:15] "GET /index.html HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:38:15] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:38:15] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:43:25] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:43:25] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:43:25] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:51:22] "GET /index.html HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:51:22] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:51:22] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:56:27] code 404, message File not found
+::1 - - [26/Sep/2025 00:56:27] "GET /inex.htm HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 00:56:47] code 404, message File not found
+::1 - - [26/Sep/2025 00:56:47] "GET /index.htm HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 00:57:01] "GET /index.html HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:57:01] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:57:01] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:57:01] "GET /linguaflowai_logo.png HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:57:01] "GET /linguaflowai_text.png HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:57:01] "GET /libs/three.module.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 00:57:15] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:57:20] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:57:34] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:57:43] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 00:57:43] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 03:44:41] code 404, message File not found
+::1 - - [26/Sep/2025 03:44:41] "GET /index.htm HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 03:45:07] code 404, message File not found
+::1 - - [26/Sep/2025 03:45:07] "GET /index.htm HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 03:45:23] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 03:45:24] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 03:45:24] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:05:25] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:05:25] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:05:25] "GET /linguaflowai_text.png HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:05:25] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:05:25] "GET /linguaflowai_logo.png HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:05:25] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:05:59] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:05:59] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:06:00] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:07:17] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:07:17] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:07:19] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:07:19] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:07:20] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:07:45] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:07:45] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:07:45] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:07:45] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:08:53] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:08:53] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:09:49] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:09:49] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:10:17] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:10:17] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:11:02] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:11:02] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:12:02] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:12:02] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:12:03] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:12:03] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:12:04] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:12:04] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:13:10] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:13:10] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:13:43] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:13:43] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:14:13] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:14:13] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:15:26] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:15:26] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:15:57] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:15:58] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:16:37] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:16:37] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:17:19] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:17:19] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:17:46] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:17:46] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:17:49] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:17:49] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:18:04] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:18:04] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:18:06] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:18:06] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:18:23] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:18:23] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:18:50] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:18:50] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:20:13] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:20:13] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:21:04] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:21:04] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:25:53] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:25:53] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:25:53] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:26:05] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:26:05] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:26:58] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:26:58] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:26:58] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:27:00] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:27:38] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:27:38] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:29:10] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:29:10] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:29:10] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:29:12] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:29:12] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:29:29] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:29:29] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:30:34] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:30:34] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:30:34] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:32:02] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:32:02] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:32:02] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:32:42] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:32:42] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:34:05] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:34:05] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:34:05] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:34:31] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:34:31] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:35:08] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:35:08] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:35:36] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:35:36] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:36:01] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:36:01] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:36:01] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:36:41] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:36:41] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:39:58] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:39:58] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:39:58] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:41:16] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:41:16] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:41:16] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:41:18] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:41:18] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:41:25] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:41:25] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:42:25] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:42:26] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:42:26] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:43:10] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:43:11] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:43:11] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:44:05] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:44:05] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:44:05] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:44:43] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:44:43] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:45:30] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:45:30] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:45:30] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:45:52] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:45:52] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:47:23] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:47:23] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:47:23] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:47:26] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:47:26] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:48:12] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:48:12] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:48:26] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:48:26] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:49:23] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:49:23] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:49:23] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:49:49] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:49:49] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:51:02] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:51:02] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:51:02] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:51:35] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:51:35] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:51:35] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:52:58] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:52:58] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:52:58] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:53:18] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:53:18] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:53:18] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:54:16] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:54:16] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:54:16] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:54:22] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:54:22] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:54:22] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:54:55] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:54:55] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:54:55] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:56:18] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:56:18] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:56:19] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:56:40] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:56:40] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:56:40] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:57:01] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 04:57:01] "GET /style.css HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 04:57:01] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:09:02] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:09:02] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:09:02] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:10:53] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:10:53] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:10:53] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:10:55] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:10:55] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:10:55] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:10:55] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:11:28] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:11:28] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:11:29] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:11:29] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:11:30] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:11:30] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:11:30] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:11:30] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:13:10] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:13:10] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:13:10] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:17:21] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:17:21] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:17:21] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:20:10] code 404, message File not found
+::1 - - [26/Sep/2025 05:20:10] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:20:12] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:20:12] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:20:12] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:41:43] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:41:43] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:41:43] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:41:45] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:41:45] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:42:35] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:42:35] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:43:49] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:43:49] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:45:02] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:45:02] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:47:34] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:47:34] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:47:34] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:50:05] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:50:05] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:50:05] code 404, message File not found
+::1 - - [26/Sep/2025 05:50:05] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:50:05] code 404, message File not found
+::1 - - [26/Sep/2025 05:50:05] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:50:06] code 404, message File not found
+::1 - - [26/Sep/2025 05:50:06] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:50:13] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:50:13] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:50:13] code 404, message File not found
+::1 - - [26/Sep/2025 05:50:13] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:50:13] code 404, message File not found
+::1 - - [26/Sep/2025 05:50:13] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:50:13] code 404, message File not found
+::1 - - [26/Sep/2025 05:50:13] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:54:35] code 404, message File not found
+::1 - - [26/Sep/2025 05:54:35] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:54:35] code 404, message File not found
+::1 - - [26/Sep/2025 05:54:35] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:54:38] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:54:38] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 05:54:38] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 05:54:38] code 404, message File not found
+::1 - - [26/Sep/2025 05:54:38] "GET /assets/earth_atmos_2048.jpg HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:54:38] code 404, message File not found
+::1 - - [26/Sep/2025 05:54:38] "GET /assets/earth_normal_2048.jpg HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:54:38] code 404, message File not found
+::1 - - [26/Sep/2025 05:54:38] "GET /assets/earth_specular_2048.jpg HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 05:54:38] code 404, message File not found
+::1 - - [26/Sep/2025 05:54:38] "GET /assets/earth_clouds_2048.png HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 06:09:40] "GET /index.html HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:09:41] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:09:41] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:09:42] code 404, message File not found
+::1 - - [26/Sep/2025 06:09:42] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 06:22:29] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:22:29] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:22:29] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:22:30] code 404, message File not found
+::1 - - [26/Sep/2025 06:22:30] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 06:24:15] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:24:16] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:26:01] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:26:01] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:26:36] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:26:36] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:26:54] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:26:54] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:27:49] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:27:49] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:29:02] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:29:02] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:30:32] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:30:32] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:31:04] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:31:04] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:31:04] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:31:30] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:31:30] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:31:56] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:31:56] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:32:36] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:32:36] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:33:41] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:33:41] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:45:50] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:45:50] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:45:50] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:45:53] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:45:53] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:46:33] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:46:33] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:46:36] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:10] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:10] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 06:52:12] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:12] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:13] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:13] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:14] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:14] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:19] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:19] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:19] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:58] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 06:52:58] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 07:04:25] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 07:04:26] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 07:04:26] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 07:04:27] code 404, message File not found
+::1 - - [26/Sep/2025 07:04:27] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [26/Sep/2025 07:06:30] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 07:06:30] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 07:09:34] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 07:09:34] "GET /main.js HTTP/1.1" 200 -
+::1 - - [26/Sep/2025 13:00:14] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:00:14] "GET /style.css HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:00:14] "GET /linguaflowai_text.png HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:00:14] "GET /linguaflowai_logo.png HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:00:14] "GET /main.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:00:14] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:02:01] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:03:56] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:05:05] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:05:42] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:06:34] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:07:38] "GET /index.html HTTP/1.1" 304 -
+::1 - - [26/Sep/2025 13:08:39] "GET /index.html HTTP/1.1" 304 -

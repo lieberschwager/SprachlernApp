@@ -1,0 +1,26 @@
+# Android build & IDE
+.gradle/
+.idea/
+local.properties
+*.iml
+build/
+app/build/
+
+# WebView & Assets
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Node & Web (falls du mal npm nutzt)
+node_modules/
+dist/
+.env
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
