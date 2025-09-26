@@ -1,8 +1,0 @@
-nohup: ignoring input
-::1 - - [26/Sep/2025 21:01:58] "GET /index.html HTTP/1.1" 304 -
-::1 - - [26/Sep/2025 21:01:58] "GET /main.js HTTP/1.1" 200 -
-::1 - - [26/Sep/2025 21:01:59] "GET /favicon.ico HTTP/1.1" 304 -
-::1 - - [26/Sep/2025 21:02:50] "GET /index.html HTTP/1.1" 304 -
-::1 - - [26/Sep/2025 21:02:50] "GET /main.js HTTP/1.1" 304 -
-::1 - - [26/Sep/2025 21:07:31] "GET /index.html HTTP/1.1" 304 -
-::1 - - [26/Sep/2025 21:07:31] "GET /main.js HTTP/1.1" 304 -
