@@ -1,6 +1,5 @@
 import * as THREE from './libs/three.module.js';
 
-// Globus Statusanzeige
 const statusDiv = document.createElement('div');
 statusDiv.style.position = 'absolute';
 statusDiv.style.top = '10px';
@@ -15,7 +14,6 @@ statusDiv.style.borderRadius = '5px';
 statusDiv.innerText = 'Globus Status: Lade Texturen...';
 document.body.appendChild(statusDiv);
 
-// Navigation
 const navButtons = document.querySelectorAll(".nav-btn");
 const modules = document.querySelectorAll(".app-module");
 
@@ -29,7 +27,6 @@ navButtons.forEach(btn => {
   });
 });
 
-// Globus
 document.addEventListener("DOMContentLoaded", () => {
   const canvas = document.getElementById("globeCanvas");
   const wrapper = document.querySelector('.globe-wrapper');
@@ -40,22 +37,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true });
   renderer.setPixelRatio(window.devicePixelRatio);
-  renderer.setClearColor(0x000000, 0);
+  renderer.setClearColor(0x88ccff, 0);
 
   const ambientLight = new THREE.AmbientLight(0xffffff, 0.8);
   scene.add(ambientLight);
 
-  const dirLight = new THREE.DirectionalLight(0xffffff, 2.4);
+  const dirLight = new THREE.DirectionalLight(0xffffff, 2.0);
   dirLight.position.set(4, 6, 3);
   scene.add(dirLight);
 
   const loader = new THREE.TextureLoader();
 
   const urls = {
-    atmos: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_atmos_2048.jpg',
-    normal: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_normal_2048.jpg',
-    specular: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_specular_2048.jpg',
-    clouds: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/earth_clouds_2048.jpg'
+    day: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/2k_earth_daymap.jpg',
+    night: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/2k_earth_nightmap.jpg',
+    clouds: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/2k_earth_clouds.jpg',
+    normal: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/2k_earth_normal_map.jpg',
+    specular: 'https://raw.githubusercontent.com/lieberschwager/SprachlernApp/main/app/src/main/assets/linguaflowai/2k_earth_specular_map.jpg'
   };
 
   const textures = {};
@@ -78,14 +76,20 @@ document.addEventListener("DOMContentLoaded", () => {
     );
   });
 
+  function isNightTime() {
+    const hour = new Date().getHours();
+    return (hour >= 20 || hour < 5);
+  }
+
   function buildGlobe() {
     const globeMaterial = new THREE.MeshStandardMaterial({
-      map: textures.atmos,
+      map: textures.day,
       normalMap: textures.normal,
-      normalScale: new THREE.Vector2(2.5, 2.5),
-      metalnessMap: textures.specular,
-      metalness: 1.2,
-      roughness: 2,4
+      normalScale: new THREE.Vector2(3.0, 3.0),
+      specularMap: textures.specular,
+      metalness: 0.0,
+      roughness: 0.5,
+      color: new THREE.Color(0xffffff)
     });
 
     const globeGeometry = new THREE.SphereGeometry(1.8, 64, 64);
@@ -96,22 +100,39 @@ document.addEventListener("DOMContentLoaded", () => {
     const cloudMaterial = new THREE.MeshStandardMaterial({
       map: textures.clouds,
       transparent: true,
-      opacity: 0.8,
+      opacity: 0.3,
       depthWrite: false,
       side: THREE.DoubleSide
     });
 
-    const cloudGeometry = new THREE.SphereGeometry(1.81, 64, 64);
+    const cloudGeometry = new THREE.SphereGeometry(1.83, 64, 64);
     const cloudMesh = new THREE.Mesh(cloudGeometry, cloudMaterial);
     cloudMesh.rotation.y = Math.PI;
     scene.add(cloudMesh);
+
+    let nightMesh = null;
+    if (isNightTime()) {
+      const nightMaterial = new THREE.MeshStandardMaterial({
+        map: textures.night,
+        transparent: true,
+        opacity: 0.45,
+        depthWrite: false,
+        side: THREE.DoubleSide
+      });
+
+      const nightGeometry = new THREE.SphereGeometry(1.8, 64, 64);
+      nightMesh = new THREE.Mesh(nightGeometry, nightMaterial);
+      nightMesh.rotation.y = Math.PI;
+      scene.add(nightMesh);
+    }
 
     statusDiv.innerText += `\nGlobus vollständig geladen ✅`;
 
     function animate() {
       requestAnimationFrame(animate);
       globeMesh.rotation.y += 0.0015;
-      cloudMesh.rotation.y += 0.0016;
+      cloudMesh.rotation.y += 0.0017;
+      if (nightMesh) nightMesh.rotation.y += 0.0014;
       renderer.render(scene, camera);
     }
     animate();
