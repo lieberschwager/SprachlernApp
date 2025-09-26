@@ -2,48 +2,35 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Linguaflow</title>
+  <title>Linguaflow Globus</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="app-container">
     <header class="app-header">
-      <img src="linguaflowai_text.png" alt="Linguaflow Schriftzug" class="app-title">
-      <img src="linguaflowai_logo.png" alt="Linguaflow Logo" class="app-logo">
+      <div class="branding">
+        <img src="linguaflowai_text.png" alt="Linguaflow Schriftzug" class="app-title">
+        <img src="linguaflowai_logo.png" alt="Linguaflow Logo" class="app-logo">
+      </div>
     </header>
+
     <main class="app-main">
-      <section id="module-globus" class="app-module active">
-        <div class="globe-center">
-          <canvas id="globeCanvas"></canvas>
-        </div>
-        <div class="globe-actions">
-          <button id="btn-explore-language" class="control-btn">Sprachen entdecken</button>
-        </div>
-      </section>
-      <!-- weitere Module ... -->
+      <div class="globe-wrapper">
+        <canvas id="globeCanvas"></canvas>
+      </div>
+      <button id="btn-explore-language">Sprachen entdecken</button>
     </main>
+
     <footer class="app-footer">
       <nav class="app-nav">
-        <button class="nav-btn active" data-target="module-globus">
-          <span class="nav-icon">🌍</span>
-          <span class="nav-label">Globus</span>
-        </button>
-        <button class="nav-btn" data-target="module-vokabeltrainer">
-          <span class="nav-icon">📚</span>
-          <span class="nav-label">Vokabeln</span>
-        </button>
-        <button class="nav-btn" data-target="module-neue-funktion">
-          <span class="nav-icon">⚙️</span>
-          <span class="nav-label">Feature</span>
-        </button>
-        <button class="nav-btn" data-target="module-monetarisierung">
-          <span class="nav-icon">💖</span>
-          <span class="nav-label">Support</span>
-        </button>
+        <button class="nav-btn active" data-target="globeModule"><span class="nav-label">Globus</span></button>
+        <button class="nav-btn" data-target="vocabModule"><span class="nav-label">Vokabeln</span></button>
+        <button class="nav-btn" data-target="featureModule"><span class="nav-label">Feature</span></button>
+        <button class="nav-btn" data-target="supportModule"><span class="nav-label">Support</span></button>
       </nav>
     </footer>
   </div>
-  <<script type="module" src="./main.js"></script>
+
+  <script type="module" src="main.js"></script>
 </body>
 </html>
