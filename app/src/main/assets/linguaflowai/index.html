@@ -10,16 +10,29 @@
   <div class="app-container">
     <header class="app-header">
       <div class="branding">
-        <img src="linguaflowai_text.png" alt="Linguaflow Schriftzug" class="app-title">
-        <img src="linguaflowai_logo.png" alt="Linguaflow Logo" class="app-logo">
+        <img src="./images/linguaflowai_text.png" alt="Linguaflow Schriftzug" class="app-title">
+        <img src="./images/linguaflowai_logo.png" alt="Linguaflow Logo" class="app-logo">
       </div>
     </header>
 
     <main class="app-main">
-      <div class="globe-wrapper">
-        <canvas id="globeCanvas"></canvas>
-      </div>
-      <button id="btn-explore-language">Sprachen entdecken</button>
+      <section id="globeModule" class="app-module">
+        <div class="globe-wrapper">
+          <canvas id="globeCanvas"></canvas>
+        </div>
+      </section>
+
+      <section id="vocabModule" class="app-module" style="display: none;">
+        <h2>Vokabeln</h2>
+      </section>
+
+      <section id="featureModule" class="app-module" style="display: none;">
+        <h2>Feature</h2>
+      </section>
+
+      <section id="supportModule" class="app-module" style="display: none;">
+        <h2>Support</h2>
+      </section>
     </main>
 
     <footer class="app-footer">

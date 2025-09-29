@@ -1,0 +1,68 @@
+::1 - - [27/Sep/2025 11:07:07] "GET /index.html HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 11:07:07] "GET /style.css HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:07:07] "GET /linguaflowai_text.png HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:07:07] "GET /linguaflowai_logo.png HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:07:07] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 11:07:08] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:07:09] code 404, message File not found
+::1 - - [27/Sep/2025 11:07:09] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Sep/2025 11:07:11] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:08:13] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:08:13] "GET /main.js HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:18:23] code 404, message File not found
+::1 - - [27/Sep/2025 11:18:23] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Sep/2025 11:18:26] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:18:26] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 11:38:46] code 404, message File not found
+::1 - - [27/Sep/2025 11:38:46] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Sep/2025 11:38:47] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:38:47] "GET /style.css HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:38:47] "GET /linguaflowai_text.png HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:38:47] "GET /linguaflowai_logo.png HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:38:47] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 11:38:47] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:39:38] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:45:19] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:45:20] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 11:47:51] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:47:52] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 11:57:06] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:57:06] "GET /style.css HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:57:06] "GET /linguaflowai_text.png HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:57:06] "GET /linguaflowai_logo.png HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:57:06] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 11:57:06] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:57:11] code 404, message File not found
+::1 - - [27/Sep/2025 11:57:11] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Sep/2025 11:57:19] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:57:19] "GET /main.js HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:58:04] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:58:04] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 11:58:56] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:58:56] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 11:59:58] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 11:59:58] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 12:01:45] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 12:01:45] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 12:01:57] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 12:01:57] "GET /main.js HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 12:07:39] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 12:07:39] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 12:19:38] code 404, message File not found
+::1 - - [27/Sep/2025 12:19:38] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [27/Sep/2025 12:19:43] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 12:19:43] "GET /style.css HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 12:19:43] "GET /linguaflowai_text.png HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 12:19:43] "GET /linguaflowai_logo.png HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 12:19:43] "GET /main.js HTTP/1.1" 200 -
+::1 - - [27/Sep/2025 12:19:43] "GET /libs/three.module.js HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 12:19:43] code 404, message File not found
+::1 - - [27/Sep/2025 12:19:43] code 404, message File not found
+::1 - - [27/Sep/2025 12:19:43] "GET /...png HTTP/1.1" 404 -
+::1 - - [27/Sep/2025 12:19:43] "GET /...jpg HTTP/1.1" 404 -
+::1 - - [27/Sep/2025 12:19:47] "GET /index.html HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 12:19:47] "GET /main.js HTTP/1.1" 304 -
+::1 - - [27/Sep/2025 12:19:47] code 404, message File not found
+::1 - - [27/Sep/2025 12:19:47] "GET /...jpg HTTP/1.1" 404 -
+::1 - - [27/Sep/2025 12:19:47] code 404, message File not found
+::1 - - [27/Sep/2025 12:19:47] "GET /...png HTTP/1.1" 404 -
