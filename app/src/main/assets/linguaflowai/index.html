@@ -5,6 +5,10 @@
   <title>Linguaflow Globus</title>
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 </head>
 <body>
   <div class="app-container">
@@ -14,37 +18,46 @@
         <img src="./images/linguaflowai_logo.png" alt="Linguaflow Logo" class="app-logo">
       </div>
     </header>
-
     <main class="app-main">
       <section id="globeModule" class="app-module">
+                  <!-- Ländername über dem Globus -->
+          <div id="country-title"></div>
+          <div id="country-info"></div>
         <div class="globe-wrapper">
           <canvas id="globeCanvas"></canvas>
-        </div>
+</div>
       </section>
-
-      <section id="vocabModule" class="app-module" style="display: none;">
+ <section id="vocabModule" class="app-module" style="display: none;">
         <h2>Vokabeln</h2>
       </section>
-
-      <section id="featureModule" class="app-module" style="display: none;">
+   <section id="featureModule" class="app-module" style="display: none;">
         <h2>Feature</h2>
       </section>
-
-      <section id="supportModule" class="app-module" style="display: none;">
-        <h2>Support</h2>
-      </section>
+<section id="supportModule" class="app-module" style="display: none;">
+   <h2>Support</h2>
+</section>
     </main>
 
-    <footer class="app-footer">
-      <nav class="app-nav">
-        <button class="nav-btn active" data-target="globeModule"><span class="nav-label">Globus</span></button>
-        <button class="nav-btn" data-target="vocabModule"><span class="nav-label">Vokabeln</span></button>
-        <button class="nav-btn" data-target="featureModule"><span class="nav-label">Feature</span></button>
-        <button class="nav-btn" data-target="supportModule"><span class="nav-label">Support</span></button>
-      </nav>
-    </footer>
+<footer class="app-footer">
+  <nav class="app-nav">
+    <button class="nav-btn active" data-target="globeModule">
+      <span class="nav-label" data-i18n="nav_globe">Globus</span>
+    </button>
+    <button class="nav-btn" data-target="vocabModule">
+      <span class="nav-label" data-i18n="nav_vocab">Vokabeln</span>
+    </button>
+    <button class="nav-btn" data-target="featureModule">
+      <span class="nav-label" data-i18n="nav_feature">Feature</span>
+    </button>
+    <button class="nav-btn" data-target="supportModule">
+      <span class="nav-label" data-i18n="nav_support">Support</span>
+    </button>
+  </nav>
+</footer>
   </div>
 
   <script type="module" src="main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/eruda"></script>
+  <script>eruda.init();</script>
 </body>
 </html>

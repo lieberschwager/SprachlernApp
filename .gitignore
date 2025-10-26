@@ -18,3 +18,10 @@ Thumbs.db
 node_modules/
 dist/
 .env
+libs/*.mjs
+nohup.out
+app/src/main/linguaflow_backups/
+app/src/main/assets/linguaflow_backups/
+app/src/main/assets/linguaflowai/modules/globeModule-2.js
+app/src/main/assets/linguaflowai/libs/*.cjs
+app/src/main/assets/linguaflowai/libs/*.mjs

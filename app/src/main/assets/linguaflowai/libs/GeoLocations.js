@@ -1,12 +1,11 @@
 export function getUserCoordinates(callback) {
   navigator.geolocation.getCurrentPosition(
     (pos) => {
-      const latitude = pos.coords.latitude;
-      const longitude = pos.coords.longitude;
+      const { latitude, longitude } = pos.coords;
       callback(latitude, longitude);
     },
     () => {
-      console.warn("Standort nicht verfügbar – Koordinatenabfrage fehlgeschlagen.");
+      console.warn('[GEO] Standort nicht verfügbar – Koordinatenabfrage fehlgeschlagen.');
     }
   );
 }

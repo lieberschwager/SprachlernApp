@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
 :root {
-  --header-height: 100px;
-  --footer-height: 100px;
-  --border-radius-container: 25px;
+  --header-height: 80px;
+  --footer-height: 70px;
+  --border-radius-container: 0px;
   --primary-action-gradient: linear-gradient(45deg, #06D6A0, #118AB2);
   --header-gradient: linear-gradient(135deg, #FF6B6B, #FFD166, #06D6A0, #118AB2);
   --bg-color: #f0f2f5;
@@ -11,6 +11,7 @@
   --border-radius-button: 80px;
 }
 
+/* === Grundstruktur === */
 html, body {
   width: 100%;
   height: 100%;
@@ -18,24 +19,26 @@ html, body {
   padding: 0;
   background: var(--bg-color);
   font-family: 'Quicksand', sans-serif;
+  overflow: hidden;
+  position: fixed;
+  touch-action: pan-x pan-y;
 }
 
-/* Container */
+/* === App Container === */
 .app-container {
   width: 100%;
-  max-width: none;
-  margin: 0 auto;
-  height: 100vh;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
   display: flex;
   flex-direction: column;
-  border-radius: var(--border-radius-container);
   overflow: hidden;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
-  border: 1px solid rgba(0, 0, 0, 0.05);
   background-color: var(--bg-color);
+  box-sizing: border-box;
 }
 
-/* Header */
+/* === Header === */
 .app-header {
   flex: 0 0 var(--header-height);
   height: var(--header-height);
@@ -44,81 +47,144 @@ html, body {
   justify-content: center;
   align-items: center;
   box-sizing: border-box;
+  padding: 0 1rem;
 }
 
 .branding {
   display: flex;
   align-items: center;
-  gap: 50px;
+  gap: 15px;
+  max-width: 100%;
 }
 
 .app-title {
-  max-width: 500px;
+  max-width: 200px;
   height: auto;
   object-fit: contain;
 }
 
 .app-logo {
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 50px;
+  max-height: 50px;
   object-fit: contain;
 }
 
-/* Main */
+/* === Main === */
 .app-main {
-  flex: 1 0.5 auto;
+  flex: 1 1 auto;
+  min-height: 0;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   overflow: hidden;
+  padding-top: 0.3rem;
+  gap: 0.2rem;
 }
 
+/* === App Module === */
 .app-module {
   width: 100%;
   height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
+  box-sizing: border-box;
+  position: relative;
 }
 
+/* === Globe Wrapper === */
 .globe-wrapper {
-  width: 100%;
-  max-width: 95%;
-  max-height: calc(100% - var(--header-height) - var(--footer-height) - 25%);
+  position: absolute;
+  bottom: var(--footer-height);
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90vmin;
+  height: 90vmin;
+  max-width: 100%;
+  max-height: calc(100vh - var(--header-height) - var(--footer-height) - 6rem);
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: var(--border-radius-container);
 }
 
+#country-title {
+  position: absolute;
+  top: 1.2rem;
+  left: 0.5rem;
+  right: auto;
+  color: #0b0c0b;
+  font-family: 'Quicksand', sans-serif;
+  z-index: 50;
+  display: block;
+  background: transparent;
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.5rem;
+  text-align: left;
+  max-width: 90%;
+  line-height: 1.2;
+  font-size: 1.4rem;
+  font-weight: 600;
+  overflow: hidden;
+}
+
+#country-info {
+  position: absolute;
+  top: 4.2rem;
+  left: 0.5rem;
+  right: auto;
+  color: #0b0c0b;
+  font-family: 'Quicksand', sans-serif;
+  z-index: 50;
+  display: block;
+  background: transparent;
+  padding: 0.2rem 0.6rem;
+  border-radius: 0.5rem;
+  text-align: left;
+  max-width: 90%;
+  font-size: 1rem;
+  font-weight: 400;
+  opacity: 0.85;
+  overflow: hidden;
+}
+
+/* === Canvas === */
 #globeCanvas {
   width: 100%;
-  aspect-ratio: 1 / 1;
-  border-radius: 50%;
-  background: transparent;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
   display: block;
+  touch-action: none;
+  background: transparent;
+  border-radius: 50%;
+  z-index: 1;
 }
 
-/* Footer */
+/* === Footer === */
 .app-footer {
-  flex: 0 0 var(--footer-height);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
   height: var(--footer-height);
   display: flex;
   align-items: center;
   justify-content: center;
   background: linear-gradient(225deg, #FF6B6B, #FFD166, #06D6A0, #118AB2);
-  border-bottom-left-radius: var(--border-radius-container);
-  border-bottom-right-radius: var(--border-radius-container);
   box-sizing: border-box;
+  z-index: 1000;
 }
 
+/* === Navigation Buttons === */
 .app-nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
   width: 100%;
   height: 100%;
+  padding: 0 0.5rem;
 }
 
 .nav-btn {
@@ -126,29 +192,57 @@ html, body {
   background: none;
   border: none;
   color: #fff;
-  font-size: 2rem;
+  font-size: 0.9rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   cursor: pointer;
+  padding: 0.25rem;
+  min-width: 0;
 }
 
 .nav-btn.active {
-  font-weight: 100%;
+  font-weight: bold;
   text-decoration: underline;
 }
-.status-box {
-  position: absolute;
-  top: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-  padding: 5px 10px;
-  background-color: rgba(0,0,0,0.7);
-  color: #fff;
-  font-family: 'Quicksand', sans-serif;
-  font-size: 14px;
-  border-radius: 5px;
-  white-space: pre-line;
-  z-index: 999;
+
+.nav-label {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+/* === Tablet/Desktop Anpassungen === */
+@media (min-width: 768px) {
+  :root {
+    --header-height: 100px;
+    --footer-height: 100px;
+  }
+
+  .app-title {
+    max-width: 500px;
+  }
+
+  .app-logo {
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+  .branding {
+    gap: 50px;
+  }
+
+  .nav-btn {
+    font-size: 1.2rem;
+  }
+
+  #country-title {
+    font-size: 3rem;
+  }
+
+  #country-info {
+    font-size: 1.5rem;
+  }
 }
